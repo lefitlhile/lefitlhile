@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lefitlhile
-- 👀 I’m interested in learning to code with Python, c#, Golang, C++, Javascript, HTML and CSS..
+- 👀 I’m interested in learning to code with Python,C#,Javascript, HTML and CSS..
 - 🌱 I’m currently learning Python..
-- 💞️ I’m looking to collaborate on Software Engineer Teams, Software Testers, Data Analyst, Data Scientists, Data Architects...
+- 💞️ I’m looking to collaborate on Software Engineer Teams, Software Testers, and Data Analyst...
 - 📫 I can be reached on my email address: lefitlhiler8@gmail.com...
 
 <!---
