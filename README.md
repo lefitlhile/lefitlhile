@@ -1,6 +1,6 @@
 👋 Hi, I’m @lefitlhile
 
-👀 I’m a passionate learner currently immersed in a full-stack developer bootcamp, focusing on Python, C#, JavaScript, HTML, and CSS.
+👀 I’m a passionate learner currently immersed in a full-stack developer bootcamp, focusing on JavaScript, HTML, and CSS.
 
 🌱 I’m dedicated to mastering Python and expanding my skills in web development.
 
