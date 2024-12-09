@@ -2,7 +2,7 @@
 
 👀 I’m a passionate learner currently immersed in a full-stack developer bootcamp, focusing on JavaScript, HTML, CSS, React, Express, SQL and Node js.
 
-🌱 I’m dedicated to mastering Python and expanding my skills in web development.
+🌱 I’m dedicated to mastering software engineering, data analysis and expanding my skills in web development.
 
 💞️ I’m eager to collaborate with Software Engineer Teams, Software Testers, and Data Analysts to gain practical experience and contribute to impactful projects.
 
